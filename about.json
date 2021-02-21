@@ -1,1 +1,7 @@
 
+{
+  "name": "Header Line Test",
+  "about_url": "https://github.com/ThomasRalp/header_line",
+  "license_url": "https://github.com/ThomasRalp/header_line",
+  "component": true
+}
